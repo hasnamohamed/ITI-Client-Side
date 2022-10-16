@@ -1,0 +1,19 @@
+th,td{
+    border: 1px solid rgb(184, 181, 181);
+    }
+    table{
+        width: 100%;
+        border-collapse:collapse;
+    }
+    .del{
+        background-color: red;
+    }
+    .edit{
+        background-color: green;
+    }
+    .det{
+        background-color: blue;
+    }
+    td{
+        text-align: center ;
+    }
